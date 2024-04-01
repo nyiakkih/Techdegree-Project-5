@@ -1,2 +1,3 @@
 # Techdegree-Project-5
  
+This project involved analyzing data from the Austin Animal Center to gain insights into various aspects of the shelter's operations. I explored adoption rates, demographics of animals in the shelter, spay/neuter procedures, and other key metrics to help the shelter better understand its performance and allocate resources effectively. The analysis aimed to provide actionable insights that could aid in improving animal welfare and optimizing shelter operations.
